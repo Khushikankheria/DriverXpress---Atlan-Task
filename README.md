@@ -17,7 +17,9 @@ The platform must be able to handle 10,000 requests per second, with a registere
 **External Scripts:** Preloaded from HubSpot’s static servers to manage functionalities like login, error tracking, and polyfills
 
 **Screenshots**
-![WhatsApp Image 2024-10-18 at 5 50 36 PM](https://github.com/user-attachments/assets/907951e5-7dc4-471b-8fcd-ea215896ae7c)
+![WhatsApp Image 2024-10-18 at 5 50 04 PM](https://github.com/user-attachments/assets/f654f883-5749-4aaa-a655-4cdf506a1b84)
 
 ![WhatsApp Image 2024-10-18 at 5 50 35 PM](https://github.com/user-attachments/assets/f045822f-1a3d-4e52-acfe-ea54c0fa4f91)
+
+![WhatsApp Image 2024-10-18 at 5 50 36 PM](https://github.com/user-attachments/assets/907951e5-7dc4-471b-8fcd-ea215896ae7c)
 
